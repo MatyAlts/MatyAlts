@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- I'm Just Learning :)
+
 <!--
 **MatyAlts/MatyAlts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
